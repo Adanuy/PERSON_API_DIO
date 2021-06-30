@@ -1,0 +1,12 @@
+C:\PROJETOS\personapi_digital_innovation_one-master\src\main\java\one\digitalinnovation\personapi\dto\mapper\PersonMapper.java
+C:\PROJETOS\personapi_digital_innovation_one-master\src\main\java\one\digitalinnovation\personapi\dto\request\PhoneDTO.java
+C:\PROJETOS\personapi_digital_innovation_one-master\src\main\java\one\digitalinnovation\personapi\entities\Person.java
+C:\PROJETOS\personapi_digital_innovation_one-master\src\main\java\one\digitalinnovation\personapi\PersonapiApplication.java
+C:\PROJETOS\personapi_digital_innovation_one-master\src\main\java\one\digitalinnovation\personapi\dto\response\MessageResponseDTO.java
+C:\PROJETOS\personapi_digital_innovation_one-master\src\main\java\one\digitalinnovation\personapi\exception\PersonNotFoundException.java
+C:\PROJETOS\personapi_digital_innovation_one-master\src\main\java\one\digitalinnovation\personapi\entities\Phone.java
+C:\PROJETOS\personapi_digital_innovation_one-master\src\main\java\one\digitalinnovation\personapi\services\PersonService.java
+C:\PROJETOS\personapi_digital_innovation_one-master\src\main\java\one\digitalinnovation\personapi\dto\request\PersonDTO.java
+C:\PROJETOS\personapi_digital_innovation_one-master\src\main\java\one\digitalinnovation\personapi\repositories\PersonRepository.java
+C:\PROJETOS\personapi_digital_innovation_one-master\src\main\java\one\digitalinnovation\personapi\controllers\PersonController.java
+C:\PROJETOS\personapi_digital_innovation_one-master\src\main\java\one\digitalinnovation\personapi\enums\PhoneType.java
