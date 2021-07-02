@@ -3,7 +3,6 @@ package one.digitalinnovation.personapi.dto.request;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
-import lombok.Getter;
 import lombok.NoArgsConstructor;
 import one.digitalinnovation.personapi.enums.PhoneType;
 
