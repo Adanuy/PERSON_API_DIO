@@ -9,7 +9,6 @@ import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
 import javax.validation.Valid;
-import java.awt.*;
 import java.util.List;
 
 @RestController
@@ -35,9 +34,17 @@ public class PersonController {
         return personService.listAll();
 
     }
+
     @GetMapping("/{id}")
     public PersonDTO findById(@PathVariable Long id) throws PersonNotFoundException {
         return personService.findById(id);
+    }
+
+    @PutMapping("/{id}")
+    public MessageResponseDTO updateById(@PathVariable Long id, PersonDTO personDTO) throws PersonNotFoundException {
+        return personService.updateById(id, personDTO);
+
+
     }
 
     @DeleteMapping("/{id}")
