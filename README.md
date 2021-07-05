@@ -1,4 +1,4 @@
-﻿<h2>Digital Innovation: Expert class - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</h2>
+﻿<h2>Projeto do Digital Innovation: Expert class - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</h2>
 
 Desevolvimento de uma API Rest com Spring Boot:
 
